@@ -1,0 +1,28 @@
+# 📊 Projeto de Análise de Dados: Histórico de Câmbio (USD/BRL)
+
+Este repositório contém a entrega técnica da análise exploratória sobre a taxa de câmbio do Dólar americano frente ao Real entre os anos de 2010 e 2019.
+
+---
+
+## 🔗 Links Obrigatórios do Projeto
+* **Dataset Real Utilizado:** [Link do Dataset no GitHub](https://github.com/SEU_USUARIO/analise-cambio-usd-brl/blob/main/USD_BRL_hist.csv) *(Substitua pelo link direto do seu arquivo aqui)*
+* **Apresentação Técnica (Vídeo):** [Assista ao vídeo no Loom/YouTube](COLE_AQUI_O_LINK_DO_SEU_VIDEO)
+
+---
+
+## 📈 Visualização dos Dados (3 Unidades Distintas)
+
+### 1. Gráfico de Linha: Histórico de Preços Cambiais
+* **Natureza dos dados:** Série temporal contínua de preços.
+* **Unidade de medida:** **Reais por Dólar (R$/USD)**
+* **Insight:** Permite analisar a macroeconomia da década, evidenciando a tendência estrutural de valorização do Dólar no período.
+
+### 2. Histograma: Volatilidade Diária das Taxas
+* **Natureza dos dados:** Distribuição estatística de variação de taxas.
+* **Unidade de medida:** **Percentual (%)**
+* **Insight:** A distribuição concentra-se majoritariamente entre -1% e +1% representando a estabilidade rotineira do mercado, enquanto as caudas longas denotam momentos históricos de forte estresse econômico.
+
+### 3. Gráfico de Barras: Frequência de Dias em Alta por Ano
+* **Natureza dos dados:** Contagem de frequência discreta anual (ordenada de forma decrescente).
+* **Unidade de medida:** **Quantidade de Dias (Dias)**
+* **Insight:** Ao quantificar e ordenar os dias em que a moeda fechou em alta, conseguimos classificar os anos que exerceram maior persistência de pressão inflacionária e cambial sobre a economia brasileira.
