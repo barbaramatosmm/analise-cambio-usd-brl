@@ -5,8 +5,7 @@ Este repositório contém a entrega técnica da análise exploratória sobre a t
 ---
 
 ## 🔗 Links Obrigatórios do Projeto
-* **Dataset Real Utilizado:** [Link do Dataset no GitHub](https://github.com/SEU_USUARIO/analise-cambio-usd-brl/blob/main/USD_BRL_hist.csv) *(Substitua pelo link direto do seu arquivo aqui)*
-* **Apresentação Técnica (Vídeo):** [Assista ao vídeo no Loom/YouTube](COLE_AQUI_O_LINK_DO_SEU_VIDEO)
+* **Dataset Real Utilizado:** [Link do Dataset no GitHub]https://github.com/barbaramatosmm/analise-cambio-usd-brl/blob/6a601171e6012f68237f6e82e250352203327cea/USD_BRL_hist.csv
 
 ---
 
@@ -26,3 +25,4 @@ Este repositório contém a entrega técnica da análise exploratória sobre a t
 * **Natureza dos dados:** Contagem de frequência discreta anual (ordenada de forma decrescente).
 * **Unidade de medida:** **Quantidade de Dias (Dias)**
 * **Insight:** Ao quantificar e ordenar os dias em que a moeda fechou em alta, conseguimos classificar os anos que exerceram maior persistência de pressão inflacionária e cambial sobre a economia brasileira.
+
